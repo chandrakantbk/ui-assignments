@@ -1,0 +1,33 @@
+@import "bootstrap.min.css";
+
+.container-fluid {
+    height: 99vh;
+}
+.menu-pannel {
+    height: 100%;
+    width: 20vw;
+}
+
+.pannel-data {
+    border: 1px green solid;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+}
+.menu-item{
+    display: block;
+    padding: 8px;
+    border: 1px solid gray;
+    margin: 4px;
+}
+.info-container{ height: 100%;}
+.iframe-page {
+    height: 100%;
+    width: 100%;
+}
+
+.adverise-container{
+    background-color: rgb(55, 240, 42);
+    margin: 4px;
+    height: 80px;
+}

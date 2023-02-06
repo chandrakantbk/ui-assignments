@@ -1,0 +1,33 @@
+
+.team-list {
+    overflow-x: auto;
+    padding: 20px;
+    border: 1px solid red;
+    margin: 5px;
+}
+
+.member-name{ 
+    text-overflow: ellipsis;
+    display: block;
+    padding: 2px;
+}
+
+.team-member {
+    width: 130px;
+    overflow: hidden;
+    margin: 5px;
+    text-align: center;
+}
+
+.img-round {
+    border-radius: 50%;
+    overflow: hidden;
+    height: 110px;
+    width: 110px;
+}
+
+.member-info {
+    display: none;
+    border: 1px solid red;
+    margin: 5px;
+}
